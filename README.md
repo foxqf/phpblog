@@ -1,5 +1,4 @@
-#HYBBS
-官方地址: http://bbs.hyyyp.com <br>
+
 论坛基于HYPHP框架开发<br>MVC结构<br>支持HOOK机制<br>PDO操作SQL,支持众多数据库<br>
 
 ### 论坛特性
@@ -76,25 +75,4 @@
 - 板块主题列表
 - 文章页面
 
-如果你把首页做成板块列表,那么你将只需要开发3个模板文件而已! <br>
-因为 用户中心,发表主题,回复主题,编辑主题,Message提示,用户注册于登录 等系列页面都有独立的模板,你不需要再去开发这些模板<br>
-如果你对核心模板有意见 也可以自行更改新建,并可以用过后台功能进行设置
-比如用户注册登录页面 你觉得不喜欢, 可能重新制作一份!
 
-### 论坛预览图 (图片可能不是最新的)
-
-![输入图片说明](http://bbs.hyyyp.com/upload/userfile/1/a79b168998cd03ac97a2b2ae50e96780.png "在这里输入图片标题")
-![输入图片说明](http://bbs.hyyyp.com/upload/userfile/1/c1a35d7f2f7d35aa129ad134e79ac469.png "在这里输入图片标题")
-![输入图片说明](http://bbs.hyyyp.com/upload/userfile/1/0698221bea1d3ee75e4d26692d232268.png "在这里输入图片标题")
-![输入图片说明](http://bbs.hyyyp.com/upload/userfile/1/c3e7bf1d506d935489f22334f4bf3584.png "在这里输入图片标题")
-![输入图片说明](http://bbs.hyyyp.com/upload/userfile/1/6aedf684c0a303883a58dd433ebed62e.png "在这里输入图片标题")
-
-![输入图片说明](http://bbs.hyyyp.com/upload/userfile/1/f08e09c79d0ea365a37c9e5821b21725.png "在这里输入图片标题")
-![输入图片说明](http://bbs.hyyyp.com/upload/userfile/1/e6ccce5be1f065290c2c3be37537498e.png "在这里输入图片标题")
-
-![输入图片说明](http://bbs.hyyyp.com/upload/userfile/1/5c62acc41ce9fc3b8dec13a0fd0504ac.png "在这里输入图片标题")
-![输入图片说明](http://bbs.hyyyp.com/upload/userfile/1/8c65deeee49dcecb53a752ef516a13a6.png "在这里输入图片标题")
-![输入图片说明](http://bbs.hyyyp.com/upload/userfile/1/aaca474677fe3ad673744e986e536e28.png "在这里输入图片标题")
-![输入图片说明](http://bbs.hyyyp.com/upload/userfile/1/67e60ab858390aa8b835731ff6b412d5.png "在这里输入图片标题")
-
-![输入图片说明](http://bbs.hyyyp.com/upload/userfile/1/2ee82f2174864ebf514b6e4d7ec9c6b5.png "在这里输入图片标题")
